@@ -1,0 +1,21 @@
+.container h1 { font-weight: 700; }
+body { background-color: #f5f8fa; }
+.btn-custom {
+	background-color: #2b98d6;
+	color: #fff;
+	border-radius: 6px;
+	padding: .55rem .85rem;
+	border: none;
+	box-shadow: none;
+}
+.btn-custom i { margin-right: 6px; }
+.btn-custom:hover { background-color: #217faf; color: #fff; }
+.table-card { border: 2px dashed #ccc; border-radius: 6px; padding: 10px; background-color: #fff; }
+.table-card .table { margin-bottom: 0; }
+.action-buttons .btn { margin-right: 6px; }
+.btn-sm.btn-primary { background-color: #2b98d6; border-color: #2b98d6; }
+.btn-sm.btn-primary i { margin-right: 6px; }
+.btn-sm.btn-danger { background-color: #ff6b6b; border-color: #ff6b6b; }
+.btn-sm.btn-danger i { margin-right: 6px; }
+.modal .close { background: none; border: none; }
+.header-subtext { margin-top: 6px; }
