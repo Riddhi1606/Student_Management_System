@@ -4,7 +4,7 @@ This repository contains a minimal Student Management System (MVP) with a Python
 
 Features implemented:
 - View Students
-- Add Student
+- Add Students
 - Search Student
 - Update Student
 - Delete Student
